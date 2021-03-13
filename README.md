@@ -1,6 +1,7 @@
 # Voronoi tessellation assisted CNN
 Sample codes for training of Voronoi-tessellation-assisted convolutional neural network.  
 The present framework achieves robust global field reconstructions based on neural networks for moving and arbitrary number of sensors.
+
 <img width="1082" alt="fig" src="https://user-images.githubusercontent.com/62085615/111016650-7ef14f00-83f2-11eb-9f2e-330d34ea16eb.png">
 
 # Reference
