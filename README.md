@@ -1,5 +1,10 @@
 # Voronoi tessellation assisted CNN
 Sample codes for training of Voronoi-tessellation-assisted convolutional neural network.  
+The present framework achieves robust global field reconstructions based on neural networks for moving and arbitrary number of sensors.
+
+Voronoi tessellation input |  Reference flow field
+:-------------------------:|:-------------------------:
+![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/vorticity.png?raw=true)  |  ![alt text](https://github.com//Masaki-Morimoto/Grad-CAM_for_fluid-flows/blob/images/grad-cam.png?raw=true)
 
 # Reference
 Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
