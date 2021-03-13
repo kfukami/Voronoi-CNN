@@ -14,7 +14,7 @@ This repository contains
 
 1. Voronoi-CNN-cy.py (Example 1)
 2. Voronoi-CNN-NOAA.py (Example 2)
-3. Voronoi-CNN-2Dxysec.py (Example 1)
+3. Voronoi-CNN-ch2Dxysec.py (Example 3)
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 Training data for each example can be downloaded from Google Drive. Links of GD are provided in each sample code. 
