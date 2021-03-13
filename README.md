@@ -13,7 +13,7 @@ Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl
 This repository contains
 
 1. AAA
-2. AAA
+2. Voronoi-CNN-NOAA.py (Example 2)
 3. AAA
 
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
