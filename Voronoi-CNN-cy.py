@@ -3,7 +3,7 @@
 
 ## Voronoi CNN for cylinder wake data.
 ## Authors:
-# Kai Fukami (Keio University), Romit Maulik (Argonne National Lab.), Nesar Ramachandra (Argonne National Lab.), Koji Fukagata (Keio University), Kunihiko Taira (UCLA)
+# Kai Fukami (UCLA), Romit Maulik (Argonne National Lab.), Nesar Ramachandra (Argonne National Lab.), Koji Fukagata (Keio University), Kunihiko Taira (UCLA)
 
 ## We provide no guarantees for this code.  Use as-is and for academic research use only; no commercial use allowed without permission. For citation, please use the reference below:
 # Ref: K. Fukami, R. Maulik, N. Ramachandra, K. Fukagata, and K. Taira,
