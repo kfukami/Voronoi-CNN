@@ -19,6 +19,14 @@ This repository contains
 Authors provide no guarantees for this code. Use as-is and for academic research use only; no commercial use allowed without permission. The code is written for educational clarity and not for speed.
 Training data for each example can be downloaded from Google Drive. Links of GD are provided in each sample code. 
 
+# Data sets
+Sample training data sets used in the present study are available as follows:
+
+[Example 1 (two-dimensional cylinder wake):](https://drive.google.com/drive/folders/1K7upSyHAIVtsyNAqe6P8TY1nS5WpxJ2c?usp=sharing),
+[Example 2 (NOAA sea surface temperature):](https://drive.google.com/drive/folders/1pVW4epkeHkT2WHZB7Dym5IURcfOP4cXu?usp=sharing),
+[Example 3 (turbulent channel flow):](https://drive.google.com/drive/folders/1xIY_jIu-hNcRY-TTf4oYX1Xg4_fx8ZvD?usp=sharing)).
+
+
 # Requirements
 * Python 3.x  
 * keras  
