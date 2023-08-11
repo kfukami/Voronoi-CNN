@@ -5,7 +5,7 @@ The present framework achieves robust global field reconstructions based on neur
 <img width="1082" alt="fig" src="https://user-images.githubusercontent.com/62085615/111016650-7ef14f00-83f2-11eb-9f2e-330d34ea16eb.png">
 
 # Reference
-Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," Nature Machine Intelligence, accepted, preprint: [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
+Kai Fukami (UCLA), Romit Maulik (ANL), Nesar Ramachandra (ANL), Koji Fukagata (Keio), and Kunihiko Taira (UCLA), "Global field reconstruction from sparse sensors with Voronoi tessellation-assisted deep learning," Nature Machine Intelligence, 3, 945-951, preprint: [arXiv:2101.00554](https://arxiv.org/abs/2101.00554), 2021
 
 # Information
 Author: [Kai Fukami](https://scholar.google.co.jp/citations?user=ipJb8qcAAAAJ&hl=en) (UCLA)
